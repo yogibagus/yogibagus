@@ -6,6 +6,6 @@
 
 📫 Say hello to me at yogibaguskarunia@gmail.com
 
-📄 My Work https://yogibagus.hithub.io
+📄 My Work https://yogibagus.github.io
 
 
