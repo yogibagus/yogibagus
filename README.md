@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yogibagus
+👋 Hi, I’m @yogibagus
 
 🔭 I’m currently working on PHP
 
