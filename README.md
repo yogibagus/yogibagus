@@ -15,9 +15,6 @@
 <p><a href="https://www.buymeacoffee.com/yogibagus"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yogibagus" /></a></p><br><br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogibagus&show_icons=true&include_all_commits=true)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogibagus&layout=compact)](https://github.com/yogibagus/github-readme-stats)
 
 
