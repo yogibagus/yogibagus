@@ -1,8 +1,8 @@
 👋 Hi, I’m @yogibagus
 
-🔭 I’m currently working on PHP
+🔭 I’m currently working on PHP with Codeigniter
 
-🌱 I’m currently learning Nodejs and Reactjs
+🌱 I’m currently learning Laravel, Nodejs and Reactjs
 
 📫 Say hello to me yogibaguskarunia@gmail.com
 
