@@ -6,12 +6,11 @@ Hello, im a fullstack developer.
 
 ## Portfolio
 
- - [Hayyu Doc - Back End Developer](https://play.google.com/store/apps/details?id=hayyu.doc&hl=id&pli=1)
- - [Yoayo Active Community - Fullstack Web Developer](https://github.com/matiassingers/awesome-readme)
- - [mYPIA - Fullstack Web Developer](https://play.google.com/store/apps/details?id=com.ypia&hl=en)
- - [mYPIA - Fullstack Web Developer](https://www.digitalagama.id/)
- - [Pusaka Super App - Fullstack Web Developer](https://www.digitalagama.id/)
- - [NU CARE - LAZISNU - Senior Developer](https://play.google.com/store/apps/details?id=id.lazisnu&hl=id)
+ - [Hayyu Doc](https://play.google.com/store/apps/details?id=hayyu.doc&hl=id&pli=1) - Back End Developer
+ - [Yoayo Active Community](https://github.com/matiassingers/awesome-readme) - Fullstack Web Developer
+ - [mYPIA](https://play.google.com/store/apps/details?id=com.ypia&hl=en) - Fullstack Web Developer
+ - [Pusaka Super App](https://www.digitalagama.id/) - Fullstack Web Developer
+ - [NU CARE - LAZISNU](https://play.google.com/store/apps/details?id=id.lazisnu&hl=id) - Senior Developer
  
 
 
